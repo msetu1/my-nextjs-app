@@ -1,6 +1,7 @@
+import style from './Contact.module.css'
 const Contact = () => {
     return (
-        <div>
+        <div className={style.text_color}>
             This is Contact components
         </div>
     );

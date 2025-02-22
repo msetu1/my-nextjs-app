@@ -1,6 +1,6 @@
 const Login = () => {
     return (
-        <div>
+        <div className="min-h-screen">
             This is Login components
         </div>
     );

@@ -1,6 +1,7 @@
+import style from './About.module.css'
 const About = () => {
     return (
-        <div>
+        <div className={style.text_color}>
             This is about components
         </div>
     );

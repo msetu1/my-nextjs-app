@@ -1,6 +1,6 @@
 const Register = () => {
     return (
-        <div>
+        <div className="min-h-screen">
             This is Register components
         </div>
     );
